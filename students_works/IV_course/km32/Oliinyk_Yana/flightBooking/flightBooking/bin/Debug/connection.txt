@@ -1,0 +1,1 @@
+Data Source=localhost:1521/orcl;User Id=c##yana1;Password=yana
